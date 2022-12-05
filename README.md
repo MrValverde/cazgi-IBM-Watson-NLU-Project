@@ -1,1 +1,1 @@
-# coding-project-template
+Application to analyze the sentiment in a writing style
